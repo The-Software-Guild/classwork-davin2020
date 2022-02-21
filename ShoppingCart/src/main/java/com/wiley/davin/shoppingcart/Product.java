@@ -1,5 +1,5 @@
 package com.wiley.davin.shoppingcart;
-
+  
 public class Product {
     private long productId;
     private String productName;

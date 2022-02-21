@@ -1,5 +1,5 @@
 package com.wiley.davin.shoppingcart;
-
+  
 import java.util.Scanner;
 
 //FYI this program doesn't take stock levels into account
